@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/coins.solution/coins/bin/Debug/netcoreapp1.1/coins.deps.json
+/Users/Guest/Desktop/coins.solution/coins/bin/Debug/netcoreapp1.1/coins.runtimeconfig.json
+/Users/Guest/Desktop/coins.solution/coins/bin/Debug/netcoreapp1.1/coins.runtimeconfig.dev.json
+/Users/Guest/Desktop/coins.solution/coins/obj/Debug/netcoreapp1.1/coins.AssemblyInfo.cs
+/Users/Guest/Desktop/coins.solution/coins/bin/Debug/netcoreapp1.1/coins.dll
+/Users/Guest/Desktop/coins.solution/coins/bin/Debug/netcoreapp1.1/coins.pdb
+/Users/Guest/Desktop/coins.solution/coins/obj/Debug/netcoreapp1.1/coins.dll
+/Users/Guest/Desktop/coins.solution/coins/obj/Debug/netcoreapp1.1/coins.pdb
